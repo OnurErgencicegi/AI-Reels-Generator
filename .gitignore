@@ -1,0 +1,7 @@
+﻿raw_video.mov
+reels_output/
+.venv/
+venv/
+.idea/
+__pycache__/
+*.pyc

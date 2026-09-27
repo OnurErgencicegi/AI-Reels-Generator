@@ -1,0 +1,50 @@
+[
+{
+"start": 123.36,
+"end": 175.76,
+"title": "Amerikan Filmlerindeki O Yalan",
+"hook": "Mesela b�yle bu Amerikan filmlerinde olsun yabanc� filmlerinde hep bir �ey derler ya.",
+"category": "duygusal",
+"reason": "��rencili�in biti�iyle birlikte gelen ger�ek hayat�n so�uklu�unu ve 'her �ey g�zel olacak' alg�s�n�n k�r�l���n� samimi bir �ekilde anlat�yor."
+},
+{
+"start": 400.18,
+"end": 421.16,
+"title": "Hayat� Fazla Ciddiye Almamak",
+"hook": "Bu O�uz Sasin'in bir laf� vard� abi.",
+"category": "motive edici",
+"reason": "Hayat�n ge�icili�i �zerine O�uz Sasi'den yap�lan al�nt�, izleyicide h�zl�ca yank� bulacak varolu�sal ve rahatlat�c� bir felsefe sunuyor."
+},
+{
+"start": 445.0,
+"end": 476.82,
+"title": "Sonsuz Se�enekler Aras�nda Kaybolmak",
+"hook": "Bir de hayat da bazen sana o kadar �ok �ey sunulur ki.",
+"category": "motive edici",
+"reason": "G�n�m�z gen�lerinin en b�y�k problemlerinden biri olan 'karar felci' konusuna de�inip, kararl�l���n ve odaklanman�n �nemini vurguluyor."
+},
+{
+"start": 552.4,
+"end": 573.98,
+"title": "Kendi Yolunu �izmek",
+"hook": "Benimle ayn� yollardan ge�ip bug�n yaz�l�mc�l�k yapan benden 5 ya� b�y�k abilerimi g�rd�m.",
+"category": "tart��mal�",
+"reason": "Kurumsal ve tekd�ze bir kariyere boyun e�mektense, risk al�p ger�ek hayallerinin pe�inden gitmeyi savunan cesur bir ele�tiri."
+},
+{
+"start": 638.57,
+"end": 660.57,
+"title": "D��ar�da Video �ekme Utanc�",
+"hook": "�ki keresinde de bir tane video �ekmeye �al��m��t�m.",
+"category": "komik",
+"reason": "��erik �reticili�ine yeni ba�layan herkesin empati kurabilece�i, d��ar�da �ekim yaparken ya�anan o abs�rt ve utan� verici an�y� �ok komik anlat�yor."
+},
+{
+"start": 1596.79,
+"end": 1629.57,
+"title": "Derdime Ayet Uygulamas�",
+"hook": "Ben de o derdime ayet uygulamas�n� d���nd�m.",
+"category": "��retici",
+"reason": "Yapay zeka ve maneviyat� birle�tiren �ok yarat�c� ve spesifik bir giri�imcilik fikrinin �al��ma mant���n� ak�c� bir dille �rneklendiriyor."
+}
+]
